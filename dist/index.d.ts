@@ -1,5 +1,2 @@
 import IDrinksDataRepository from './lib/IDrinksDataRepository';
-
-export {
-    IDrinksDataRepository
-};
+export { IDrinksDataRepository };

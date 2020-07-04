@@ -1,7 +1,7 @@
 import { Drink } from 'drinks-company-models-contracts';
 
-interface IDrinks {
+interface IDrinksDataRepository {
 	getDrinks: () => Drink[]
 }
 
-export default IDrinks;
+export default IDrinksDataRepository;
